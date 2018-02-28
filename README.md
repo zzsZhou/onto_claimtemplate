@@ -1,4 +1,5 @@
-# onto_claimtemplate
-ontology claim template 
+# claim template
+
 standard claim
+
 social claim
